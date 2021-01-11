@@ -1,0 +1,13 @@
+net/advancius/connection/PacketConnection.class
+net/advancius/packet/PacketResponse.class
+net/advancius/AdvanciusClient.class
+net/advancius/packet/Packet.class
+net/advancius/AdvanciusClient$Builder.class
+net/advancius/commons/Metadata.class
+net/advancius/commons/Reflection.class
+net/advancius/packet/PacketHandlerMethod.class
+net/advancius/packet/PacketHandler.class
+net/advancius/packet/PacketListener.class
+net/advancius/connection/SocketConnection.class
+net/advancius/connection/SocketConnection$Socket.class
+net/advancius/commons/Identifier.class
